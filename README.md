@@ -1,5 +1,4 @@
 # Contact
-# CONTACT
 
 ## What is CONTACT?
 An open platform that brings together software and hardware to allow everyone to communicate up to eight mile radius.
